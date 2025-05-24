@@ -55,3 +55,15 @@
 [16:24:30] [Server thread/INFO]: Hacta issued server command: /seed
 [16:24:31] [Server thread/INFO]: Hacta issued server command: /gamemode creative
 [16:24:31] [Server thread/INFO]: [Hacta: Set own game mode to Creative Mode]
+[16:36:03] [Server thread/INFO]: Hacta lost connection: Disconnected
+[16:36:03] [Server thread/INFO]: Hacta left the game
+[16:36:45] [Server thread/INFO]: Unknown or incomplete command, see below for error
+off<--[HERE]
+[16:36:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+down<--[HERE]
+[16:37:00] [User Authenticator #1/INFO]: UUID of player Hacta is 9e7e4803-0b3b-32c5-a2c2-858b8f314c1b
+[16:37:02] [Server thread/INFO]: Hacta joined the game
+[16:37:02] [Server thread/INFO]: Hacta[/127.135.173.144:52117] logged in with entity id 2402 at ([world]-16.96302937035656, 93.0, 61.27586728153654)
+[16:37:42] [Server thread/INFO]: Hacta issued server command: /save-off
+[16:37:42] [Server thread/INFO]: [Hacta: Automatic saving is now disabled]
+[16:37:51] [Server thread/INFO]: Hacta issued server command: /schedule
